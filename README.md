@@ -14,7 +14,6 @@ This project follows a high-end visual storytelling approach, utilizing:
 * **Deployment**: GitHub Pages
 
 ## Key Features
-* **Visual Archivalist Gallery**: High-quality documentation of dental procedures and results.
 * **Service Overview**: Detailed sections for pre-wedding dental treatments and general care.
 * **Responsive Design**: Fully optimized for mobile and desktop viewing.
 * **Direct Booking**: Integrated call-to-action for appointments.
