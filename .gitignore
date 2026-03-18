@@ -1,0 +1,46 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+
+# --- Web & Node.js ---
+node_modules/
+dist/
+build/
+.cache/
+.next/
+.serverless/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# --- Graphics & Design Assets (Penting untuk efisiensi portofolio) ---
+# Jangan upload file mentah desain yang terlalu besar
+*.psd
+*.ai
+*.raw
+*.cr2
+*.arw
+
+# --- Database & Logs ---
+*.log
+*.sqlite
+*.db
+.data/
+
+# --- IDE Config ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
