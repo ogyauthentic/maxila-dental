@@ -1,4 +1,4 @@
-# Maxila Dental
+I'm# Maxila Dental
  HEAD
 A professional landing page for modern dental care services, designed with a focus on clean aesthetics and user experience.
 
@@ -49,4 +49,3 @@ This repository contains the source code for the Maxila Dental web presence. The
 1. Clone the repository:
    ```bash
    git clone [https://github.com/ogyauthentic/maxila-dental.git](https://github.com/ogyauthentic/maxila-dental.git)
- 339afd5589eae24a90fc9eb537e9290caef52970
